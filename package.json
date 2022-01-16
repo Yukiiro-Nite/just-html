@@ -4,11 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d page"
+    "deploy": "gh-pages -d page",
+    "build": "node ./page-generators/build-pages.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.7"
   }
 }

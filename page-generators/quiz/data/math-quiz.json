@@ -1,0 +1,41 @@
+{
+  "quizName": "Math Quiz",
+  "questions": [
+    {
+      "question": "What is 2 + 2?",
+      "answers": [
+        { "answer": "0", "isCorrect": false },
+        { "answer": "5", "isCorrect": false },
+        { "answer": "-1", "isCorrect": false },
+        { "answer": "4", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What is 3 - 2?",
+      "answers": [
+        { "answer": "-1", "isCorrect": false },
+        { "answer": "5", "isCorrect": false },
+        { "answer": "1", "isCorrect": true },
+        { "answer": "1.5", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is 4 * 2?",
+      "answers": [
+        { "answer": "2", "isCorrect": false },
+        { "answer": "16", "isCorrect": false },
+        { "answer": "8", "isCorrect": true },
+        { "answer": "-6", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is 9 / 3?",
+      "answers": [
+        { "answer": "3", "isCorrect": true },
+        { "answer": "5", "isCorrect": false },
+        { "answer": "-6", "isCorrect": false },
+        { "answer": "1", "isCorrect": false }
+      ]
+    }
+  ]
+}
